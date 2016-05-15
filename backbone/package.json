@@ -1,0 +1,11 @@
+{
+  "name": "learn-backbone-project",
+  "version": "1.0.0",
+  "description": "Application to renew my old backbone.js library knowledge and get new one about unknown sfears such as unit testing and Marinette.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
